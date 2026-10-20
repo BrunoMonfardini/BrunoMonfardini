@@ -8,8 +8,14 @@
 ### Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoMonfardini&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMonfardini&layout=compact&hide_border=true&theme=default" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BrunoMonfardini&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <img height="165" alt="estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=BrunoMonfardini&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMonfardini&layout=compact&hide_border=true&theme=github_dark" />
+    <img height="165" alt="linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMonfardini&layout=compact&hide_border=true&theme=default" />
+  </picture>
 </p>
 
 <p align="center">
@@ -18,10 +24,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoMonfardini/BrunoMonfardini/output/github-contribution-grid-snake.svg" />
     <img alt="cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/BrunoMonfardini/BrunoMonfardini/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
----
-
-<p align="center">
-  <i>Aberto a oportunidades remotas e híbridas (ABC / São Paulo)</i>
 </p>

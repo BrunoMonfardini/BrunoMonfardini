@@ -21,9 +21,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Atualiza idade e estatísticas
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Atualiza idade
         run: python today.py
 
       - name: Commit

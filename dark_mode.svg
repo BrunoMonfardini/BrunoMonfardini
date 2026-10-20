@@ -15,54 +15,48 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="1030px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">         .&#x27;:!!i|lmmkmHHH%%l:,&#x27;.</tspan>
-<tspan x="15" y="50">       .`;irkmM@MMMMMHHMMHMH%li;`</tspan>
-<tspan x="15" y="70">      &#x27;;jkmHMMHHHMHHHH%HHHHH@MH%k!`.</tspan>
-<tspan x="15" y="90">    .,|rm%%%%%%%HmmHHHH%HHMHMMMMHmj:&#x27;</tspan>
-<tspan x="15" y="110">   .,irmHMHm%H%r|;;|lm%kkm%%H@@HM%ml;&#x27;</tspan>
-<tspan x="15" y="130">  &#x27;:irmMHmHl||:&#x27;    &#x27;,:;;;l%km@HHMH%r!`</tspan>
-<tspan x="15" y="150">  :ik%H%ki!`&#x27;&#x27;      ......;r!:jk%H%@Hr!&#x27;</tspan>
-<tspan x="15" y="170"> .|rHMm|:`&#x27;&#x27;...          .  .`|l|imH%r|,.</tspan>
-<tspan x="15" y="190"> `r%MH|;:`&#x27;.&#x27;&#x27;.&#x27;.             ,!!;jH%kj!`.</tspan>
-<tspan x="15" y="210"> ,mH@%!:::;:;|ii|,.     .``,:`````|Hmkri:&#x27;</tspan>
-<tspan x="15" y="230"> ;mH@m|||:,`&#x27;`:;::`    &#x27;:!|i||ii|`l%kmkj;`</tspan>
-<tspan x="15" y="250"> ,!!%m:!!;||ll!|||!;|||!|i|!;!;;ilrjkmmr|,</tspan>
-<tspan x="15" y="270"> `!&#x27;rk;::||;i|`;:!%:,rk,|lk|&#x27;||`.!i|mmmki:</tspan>
-<tspan x="15" y="290"> ;:,|j|;````&#x27;`,,`j|  .l:`,,,`&#x27;&#x27;.`|!j%mmki:</tspan>
-<tspan x="15" y="310"> ij:jl:!:`````,:i|`. .,j;,``&#x27;.&#x27;,;;;k%mmki:</tspan>
-<tspan x="15" y="330"> im&#x27;;k!,`,,,::,:;`&#x27;.  .`::,``````!;k%%%ki:</tspan>
-<tspan x="15" y="350"> i%limi,`````&#x27;&#x27;`,,.  .`&#x27;&#x27;&#x27;.....&#x27;,j;k%%%k|,</tspan>
-<tspan x="15" y="370">.|H@@Ml:,```&#x27;``:|j|;:;|;`&#x27;..&#x27;&#x27;&#x27;`lrjm%%ml!`</tspan>
-<tspan x="15" y="390"> ;mH@@m|:,`:ijjlrjjiirjiii|:&#x27;&#x27;`imll%H%mj:&#x27;</tspan>
-<tspan x="15" y="410"> ,l%M@@r|;,ikiij|||;;|!!!!jr:&#x27;|kljl%H%r|`.</tspan>
-<tspan x="15" y="430"> `|kM@@@mj;,,``;!;;;;:::`.&#x27;`,irllll%%kj:.</tspan>
-<tspan x="15" y="450">  `imHMMlkr|!;,`&#x27;`,:;`&#x27;.&#x27;`,!ll;!ijr%mj;&#x27;</tspan>
-<tspan x="15" y="470">   .!kHki!lkkj!,`,````&#x27;.,|km|:::,,;lj;&#x27;</tspan>
-<tspan x="15" y="490">     `ljl!:|lrl|!;:;;,:;ikj,`;:`,;ji:&#x27;</tspan>
-<tspan x="15" y="510">      .,i|:``;ijlljjjijj|;&#x27;`:::|ll|,.</tspan>
+<tspan x="15" y="30">           `` &#x27;;|jkl;:;,</tspan>
+<tspan x="15" y="50">      .;jrH@@HM@@@@@@@@Mm|&#x27;</tspan>
+<tspan x="15" y="70">    i%M@@@@@@@@@@@@@@@@@@@m,</tspan>
+<tspan x="15" y="90">   k@@@@@@@@@@@@@MMMM@@@@@@MHkr|</tspan>
+<tspan x="15" y="110">  r@@@@@@@@@@@MMHki!|jkHM@@@@@@@!</tspan>
+<tspan x="15" y="130"> r@@@@@@@HMM%rkkii;,,:;!|ikM@@@M:</tspan>
+<tspan x="15" y="150"> m@@@@@M%lli!;!;,,``,:;;!|ij%@@H</tspan>
+<tspan x="15" y="170"> ,@@@@Mmli!;;:,``````,;!!|iir@@M&#x27;</tspan>
+<tspan x="15" y="190">  ;@@@mrrrllli!:,,,;l%%kjllrrH@%</tspan>
+<tspan x="15" y="210">   &#x27;@@%HHHHMMMMH%kkHHH%%%%m%HH@l!</tspan>
+<tspan x="15" y="230">   |H@HHHHH%HkrmMi:%rilkrrrmk%%lm`</tspan>
+<tspan x="15" y="250">   kMMHkmrljjiimk|,;rli|||jrlkmi!`</tspan>
+<tspan x="15" y="270">   `kMHkkrllllllli:;ij||ijjiimk;!</tspan>
+<tspan x="15" y="290">    l%@mrrlj|;;kHMHHHm::;|||j%mi:</tspan>
+<tspan x="15" y="310">    !kHMmljjlkmm%H%%H%mmkjiir%kl&#x27;</tspan>
+<tspan x="15" y="330">     . m@mkk%HH%mkrrkmmmHklkmH&#x27;</tspan>
+<tspan x="15" y="350">       .m@HH%lilrrrlli|ikm%%H|</tspan>
+<tspan x="15" y="370">        .%@MMMmljljjiijm%%HMk</tspan>
+<tspan x="15" y="390">         jMM@@MH%%mmm%%%HHHkj&#x27;</tspan>
+<tspan x="15" y="410">         :%HMM@@@@@@@@MMMHkiii,&#x27;</tspan>
+<tspan x="15" y="430">        .ikmHHHMMMMMMMMHmli|ii|i!,`.</tspan>
+<tspan x="15" y="450">     .,lkmrrm%%HHHHHHH%rj|!|i!;!;;,&#x27;&#x27;`&#x27;&#x27;&#x27;.</tspan>
+<tspan x="15" y="470"> &#x27;`,:,:lrkrlrkm%%%%mmrli|!!|!;!:&#x27;..&#x27;&#x27;&#x27;```,</tspan>
+<tspan x="15" y="490">::::,,&#x27;:irklrrjlrrllj|!!;;;::,&#x27;.&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``</tspan>
+<tspan x="15" y="510">,,,,,,`;,:!!ij!;!||i|;:,`&#x27;&#x27;,&#x27;.&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;</tspan>
 </text>
 <text x="430" y="30" fill="#c9d1d9">
-<tspan x="430" y="30">bruno@monfardini</tspan> -———————————————————————————————————————-—-
-<tspan x="430" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Windows 11</tspan>
-<tspan x="430" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">22 anos, 2 meses, 2 dias</tspan>
-<tspan x="430" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Itaú Unibanco</tspan>
-<tspan x="430" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Analista Júnior · Desenvolvedor Front-end</tspan>
-<tspan x="430" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">VS Code</tspan>
-<tspan x="430" y="150" class="cc">. </tspan>
-<tspan x="430" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">TypeScript, JavaScript, Java</tspan>
-<tspan x="430" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, SCSS, JSON, YAML</tspan>
-<tspan x="430" y="210" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Angular, Spring Boot</tspan>
-<tspan x="430" y="230" class="cc">. </tspan>
-<tspan x="430" y="250" class="cc">. </tspan><tspan class="key">Education</tspan>.<tspan class="key">BCT</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Ciência e Tecnologia, UFABC (2026)</tspan>
-<tspan x="430" y="270" class="cc">. </tspan><tspan class="key">Education</tspan>.<tspan class="key">BCC</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Ciência da Computação, UFABC (2027)</tspan>
-<tspan x="430" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="430" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Principal</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">vieira_bruno@outlook.com</tspan>
-<tspan x="430" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Secundário</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">brunomlv2013@gmail.com</tspan>
-<tspan x="430" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">bruno-monfardini</tspan>
-<tspan x="430" y="390" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">@brunomlv_</tspan>
-<tspan x="430" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">brunomlv</tspan>
-<tspan x="430" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="430" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">5</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">1</tspan>
-<tspan x="430" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">359</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">2</tspan>
+<tspan x="430" y="110">bruno@monfardini</tspan> -———————————————————————————————————————-—-
+<tspan x="430" y="130" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Windows 11</tspan>
+<tspan x="430" y="150" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">22 anos, 2 meses, 2 dias</tspan>
+<tspan x="430" y="170" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Itaú Unibanco</tspan>
+<tspan x="430" y="190" class="cc">. </tspan><tspan class="key">Kernel</tspan>.<tspan class="key">Cargo</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Analista Júnior</tspan>
+<tspan x="430" y="210" class="cc">. </tspan><tspan class="key">Kernel</tspan>.<tspan class="key">Área</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Desenvolvimento Front-end</tspan>
+<tspan x="430" y="230" class="cc">. </tspan><tspan class="key">Locale</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Santo André, SP</tspan>
+<tspan x="430" y="250" class="cc">. </tspan>
+<tspan x="430" y="270" class="cc">. </tspan><tspan class="key">Education</tspan>.<tspan class="key">BCT</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Ciência e Tecnologia, UFABC (2026)</tspan>
+<tspan x="430" y="290" class="cc">. </tspan><tspan class="key">Education</tspan>.<tspan class="key">BCC</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Ciência da Computação, UFABC (2027)</tspan>
+<tspan x="430" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="430" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Principal</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">vieira_bruno@outlook.com</tspan>
+<tspan x="430" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Secundário</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">brunomlv2013@gmail.com</tspan>
+<tspan x="430" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">bruno-monfardini</tspan>
+<tspan x="430" y="410" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">@brunomlv_</tspan>
+<tspan x="430" y="430" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">brunomlv</tspan>
 </text>
 </svg>

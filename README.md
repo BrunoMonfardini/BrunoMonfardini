@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full+Stack;Angular+%7C+Spring+Boot+%7C+PostgreSQL;Design+systems+e+CI+bem+feitos;Sempre+aprendendo+algo+novo&center=true&width=500&height=45&color=2E86DE&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Analista+no+Ita%C3%BA+Unibanco;Desenvolvedor+Full+Stack;Angular+%7C+Spring+Boot+%7C+PostgreSQL;Design+systems+e+CI+bem+feitos;Sempre+aprendendo+algo+novo&center=true&width=500&height=45&color=2E86DE&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 
 ### Sobre mim
 
+- Analista no **Itaú Unibanco**
 - Estudante na **UFABC**
 - Desenvolvedor full stack com **Angular** no front e **Spring Boot** no back
 - Construindo o **Argila**, um design system em Angular com temas por cliente via design tokens
